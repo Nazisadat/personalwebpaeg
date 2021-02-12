@@ -12,7 +12,7 @@ export default {
   role2: "UI/UX developer",
   contactways: "Contact me :",
   desc:
-    "I am a Front end developer.I have 5 years of experience as a developer. I’ve also done several great UI/UX for websites.",
+    "I am a Frontend developer.I have 5 years of experience as a developer. I’ve also done several great UI/UX for websites.",
   aboutme: "ABOUT ME",
   services: "SERVICES",
   fullname: "Full Name",
